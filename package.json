@@ -6,7 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Yaroslav Golovachev <golovachev.yaroslav@gmail.com>",
+  "keywords": [
+    "nodeschool",
+    "nodejs exercises"
+  ],
   "license": "ISC",
   "dependencies": {
     "concat-stream": "^1.6.2",
